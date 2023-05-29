@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://vanlam6061.github.io/csb-ff9m9w/static/css/main.fe5b3767.css",
+    "main.js": "https://vanlam6061.github.io/csb-ff9m9w/static/js/main.58ec3bad.js",
+    "index.html": "https://vanlam6061.github.io/csb-ff9m9w/index.html",
+    "main.fe5b3767.css.map": "https://vanlam6061.github.io/csb-ff9m9w/static/css/main.fe5b3767.css.map",
+    "main.58ec3bad.js.map": "https://vanlam6061.github.io/csb-ff9m9w/static/js/main.58ec3bad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5b3767.css",
+    "static/js/main.58ec3bad.js"
+  ]
+}
